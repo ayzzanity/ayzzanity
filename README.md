@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Full stack web developer using React.JS and Node.JS with a DevOps background (Gitlab CI/CD, Ubuntu Server Management, etc.)
+
+Currently a Full stack web developer for VueJS and PHP Laravel
 <!--
 **ayzzanity/ayzzanity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
